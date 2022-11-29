@@ -1,0 +1,33 @@
+<footer class="footer">
+  <div class="container">
+    <div class="content has-text-centered">
+      <p>
+      <a class="icon" href="mailto:{{ site.email }}">
+        <i class="fa fa-envelope" title="Email"></i>
+      </a>
+      </p>
+    </div>
+  </div>
+</footer>
+
+<!-- common js -->
+<script src="https://cdn.polyfill.io/v2/polyfill.min.js?features=es6&flags=gated"></script>
+<script src="{{ site.baseurl }}/assets/js/fetch.js"></script>
+<script src="{{ site.baseurl }}/assets/js/collections.js"></script>
+<script src="{{ site.baseurl }}/assets/js/dom.js"></script>
+<script src="{{ site.baseurl }}/assets/js/nav.js"></script>
+<script src="{{ site.baseurl }}/assets/js/search.js"></script>
+<script src="{{ site.baseurl }}/assets/js/feed.js"></script>
+<script src="{{ site.baseurl }}/assets/js/load-authors.js"></script>
+<script src="{{ site.baseurl }}/assets/js/load-recent-posts.js"></script>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-1265430-2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-1265430-2');
+</script>
+
