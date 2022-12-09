@@ -71,5 +71,6 @@ This writing covers seven major points of error made by Oz Crypto, but there are
 
 ### References
 
-1.  Dr. Leemon Baird, Cryptoeconomics and Security Conference 2017 (https://youtu.be/pcToFASnyrc?t=190).
-2.  Dr. Leemon Baird, Harvard Talk, November 20th, 2017 (https://www.youtube.com/watch?v=IjQkag6VOo0&t=3690s)
+1\. Dr. Leemon Baird, Cryptoeconomics and Security Conference 2017 [https://youtu.be/pcToFASnyrc?t=190](https://youtu.be/pcToFASnyrc?t=190).
+
+2\. Dr. Leemon Baird, Harvard Talk, November 20th, 2017 [https://www.youtube.com/watch?v=IjQkag6VOo0&t=3690s](https://www.youtube.com/watch?v=IjQkag6VOo0&t=3690s)
